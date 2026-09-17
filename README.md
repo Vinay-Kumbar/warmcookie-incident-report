@@ -1,6 +1,6 @@
 # Incident Report: WarmCookie Malware Infection
 
-**Analyst:** Vina
+**Analyst:** Vinay
 **Date:** July 29, 2026
 **Environment:** LAFONTAINEBLEU domain (lafontainebleu.org)
 **Source:** Packet capture provided for internal investigation
